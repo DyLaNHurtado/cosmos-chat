@@ -1,0 +1,6 @@
+[submodule "chat-angular"]
+	path = chat-angular
+	url = https://github.com/DyLaNHurtado/chat-angular.git
+[submodule "chat-api-node"]
+	path = chat-api-node
+	url = https://github.com/DyLaNHurtado/chat-api-node.git
