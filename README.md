@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 COSMOS 🚀
 
 	[![LICENSE](https://img.shields.io/github/license/DyLaNHurtado/cosmos-chat?style=for-the-badge)](https://github.com/DyLaNHurtado/cosmos-chat/blob/master/LICENSE.md)
@@ -31,3 +32,6 @@ Cosmos es una aplicación con cliente web y de escritorio con en la que puedes c
  * DyLaNHurtado
  
 ## 📄 Licencia 📄
+=======
+# cosmos-chat
+>>>>>>> 8111bdcd6116d1cd7f6e3dbf75aed0e67096ea42
