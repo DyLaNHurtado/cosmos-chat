@@ -34,4 +34,3 @@ Cosmos es una aplicación con cliente web y de escritorio con en la que puedes c
  
 ## 📄 Licencia 📄
 
-
