@@ -21,6 +21,8 @@ Cosmos es una aplicación con cliente web y de escritorio con en la que puedes c
 | [Angular](https://angular.io/) | Proyecto parte front-end web |
 | [Angular Material](https://material.angular.io/) | Componentes creados para Frontend |
 | [Electron.js](https://www.electronjs.org/) | Proyecto parte front-end escritorio |
+| [ngx-emoji-mart](https://www.npmjs.com/package/@ctrl/ngx-emoji-mart) | Libreria utilizada para escribir emojis |
+| [UI Avatars](https://ui-avatars.com/) | API para las imagenes por defecto |
 	
 
 
