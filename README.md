@@ -55,7 +55,7 @@ Cosmos es una aplicación con cliente web y de escritorio con en la que puedes c
 ## ✈️ Despliegue ✈️
 
 ## 📖 Wiki 📖
-
+<a href="https://github.com/DyLaNHurtado/cosmos-chat/wiki" target="_blank">Official Wiki</a>
 
 ## ✒️ Autor ✒️
  * DyLaNHurtado
