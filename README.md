@@ -1,11 +1,11 @@
 
 
 
-
+<h1 align="center"> 🚀 COSMOS 🚀</h1>
 <p align="center">
 	<a href="https://github.com/DyLaNHurtado/cosmos-chat"><img src="https://raw.githubusercontent.com/DyLaNHurtado/chat-angular/develop/src/assets/img/logo.png" height="200px"/></a>
 </p>
-<h1 align="center"> 🚀 COSMOS 🚀</h1>
+
 
 ## Info del repositorio
 
