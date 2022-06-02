@@ -23,7 +23,7 @@ Cosmos es una aplicación con cliente web y de escritorio con en la que puedes c
 
 ### 🤖 Disponible para 🤖
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
- ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+ ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ### 🛠️ Tecnologias usadas 🛠️
 
@@ -43,7 +43,8 @@ Cosmos es una aplicación con cliente web y de escritorio con en la que puedes c
 | [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) | Herramienta para empaquetar la aplicación y sus dependencias en un contenedor virtual |	
 | [![UIAvatars](https://img.shields.io/badge/ui%20avatars-black?style=for-the-badge&logo=googlephotos)](https://ui-avatars.com/) | API utlizada para las imagenes por defecto |
 | [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) | Utilizada para verificar si las peticiones HTTP de la API Rest funcionan correctamente |
-| [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://www.netlify.com/) | Permite alojar y mantener la aplicación web con implementación continua |
+| [![Mogenius](https://img.shields.io/badge/Mogenius-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://mogenius.com/home) | Permite desplegar y mantener la parte back-end con implementación continua |
+| [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/) | Permite alojar y mantener la aplicación web con implementación continua |
 | [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) | IDE utilizado para el desarrollo de todo el proyecto |
 
 
