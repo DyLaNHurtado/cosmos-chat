@@ -3,7 +3,7 @@
 
 <h1 align="center"> 🚀 COSMOS 🚀</h1>
 <p align="center">
-	<a href="https://github.com/DyLaNHurtado/cosmos-chat"><img src="https://raw.githubusercontent.com/DyLaNHurtado/chat-angular/develop/src/assets/img/logo.png" height="200px"/></a>
+	<a href="https://cosmos-chat.netlify.app/"><img src="https://raw.githubusercontent.com/DyLaNHurtado/chat-angular/develop/src/assets/img/logo.png" height="200px"/></a>
 </p>
 
 
@@ -50,18 +50,17 @@ Cosmos es una aplicación con cliente web y de escritorio con en la que puedes c
 
 
 
-
-
-
 ## ✈️ Despliegue ✈️
+
+Hay varias tecnicas de despligue implicadas en el proyecto.
+
+En primer lugar he utilizado Netlify para alojar el sito web en una direccion HTTPS. Y he desplegado el Back-end sobre Mogenius. Por lo que si quieres usar Cosmos tan solo pulsa en la imagen del principio y te llevará a la página en cuestión. Por otra parte si no te interesa este servicio. Puedes ejecutar el docker-compose que  utiliza las imagenes de los contenedores subidos a Docker Hub. 
 
 ## 📖 Wiki 📖
 <a href="https://github.com/DyLaNHurtado/cosmos-chat/wiki" target="_blank">Official Wiki</a>
 
 ## ✒️ Autor ✒️
  * DyLaNHurtado
-
-
 
 
 <p align="center">
