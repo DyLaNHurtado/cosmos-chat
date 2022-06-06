@@ -38,7 +38,8 @@ Cosmos es una aplicación con cliente web y de escritorio con en la que puedes c
 | [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)](https://socket.io/) | Framework para manejar los websockets | 
 | [![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/) | Framework utlizado en el proyecto parte front-end web |
 | [![Material](https://img.shields.io/badge/Material-%233333FF?style=for-the-badge&logo=angular)](https://material.angular.io/) | Libreria de componentes ya creados para Angular |
-| [![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)](https://www.electronjs.org/) | Framework utlizado en el proyecto parte front-end escritorio |
+| [![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)](https://www.electronjs.org/) | Framework utlizado para desarrollar la parte front-end escritorio |
+| [![Electron-Forge](https://img.shields.io/badge/ElectronForge-323232?style=for-the-badge&logo=Electron&logoColor=white)](https://www.electronforge.io/) | Framework utlizado  para empaquetar el proyecto front-end escritorio |
 | [![ngx-emoji-mart](https://img.shields.io/badge/%F0%9F%98%80ngx%20emoji%20mart-black?style=for-the-badge)](https://www.npmjs.com/package/@ctrl/ngx-emoji-mart) | Libreria utilizada para escribir emojis |
 | [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) | Herramienta para empaquetar la aplicación y sus dependencias en un contenedor virtual |	
 | [![UIAvatars](https://img.shields.io/badge/ui%20avatars-black?style=for-the-badge&logo=googlephotos)](https://ui-avatars.com/) | API utlizada para las imagenes por defecto |
