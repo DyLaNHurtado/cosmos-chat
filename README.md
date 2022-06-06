@@ -54,7 +54,35 @@ Cosmos es una aplicación con cliente web y de escritorio con en la que puedes c
 
 Hay varias tecnicas de despligue implicadas en el proyecto.
 
-En primer lugar he utilizado Netlify para alojar el sito web en una direccion HTTPS. Y he desplegado el Back-end sobre Mogenius. Por lo que si quieres usar Cosmos tan solo pulsa en la imagen del principio y te llevará a la página en cuestión. Por otra parte si no te interesa este servicio. Puedes ejecutar el docker-compose que  utiliza las imagenes de los contenedores subidos a Docker Hub. 
+En primer lugar he utilizado [Netlify](https://www.netlify.com/) para alojar el sito web en una direccion HTTPS y he desplegado el Back-end sobre [Mogenius](https://mogenius.com/home).
+
+Por lo que si quieres usar Cosmos tan solo pulsa en la imagen del principio y te llevará a la página en cuestión.
+
+Por otra parte si no te interesa este servicio o esta caido. Puedes ejecutar el docker-compose que utiliza las imagenes de los contenedores subidos a Docker Hub. 
+
+### ¿ Como ejecutar el docker-compose ?
+
+Tendrás que seguir una serie de comandos.
+
+Lo primero es clonar el proyecto
+
+```
+git clone https://github.com/DyLaNHurtado/cosmos-chat.git
+```
+
+Despues nos dirigimos a la carpeta y ejecutamos lo siguiente:
+
+```
+docker-compose up
+```
+O si prefieres tener esa terminal libre y no ver los logs
+
+
+```
+docker-compose up -d
+```
+
+Cualquier problema puedes escribirme un correo :  <a href="mailto:dylanhurtado43@gmail.com" target="_blank" rel="noreferrer">dylanhurtado43@gmail.com</a>
 
 ## 📖 Wiki 📖
 <a href="https://github.com/DyLaNHurtado/cosmos-chat/wiki" target="_blank">Official Wiki</a>
