@@ -1,0 +1,31 @@
+version: '3.7'
+services:
+  cosmos-chat-backend:
+    image: dylanhurtado/cosmos-chat-backend
+    environment:
+      # Puedes cambiar los datos que quieras
+      PORT: 8888
+      MONGO_DB_URI: mongodb+srv://mongoadmin:mongopass@chatdb.hgs41.mongodb.net/chatAngular?retryWrites=true&w=majority
+      MONGO_DB_TEST_URI: mongodb+srv://mongoadmin:mongopass@chatdb.hgs41.mongodb.net/chatAngularTest?retryWrites=true&w=majority
+      SECRET_KEY: 6b63ec8a492c4c78b85f854657deeb65
+      API_MAINENDPOINT: /api/v1/
+    ports:
+      - 8888:8888
+      - 5000:5000
+    expose:
+      - 8888
+      - 5000
+
+  cosmos-chat-angular:
+    image: dylanhurtado/cosmos-chat-angular
+    build: .
+    ports:
+      - 4200:4200
+    expose:
+      - 4200
+    working_dir: /home/node/app
+    volumes:
+      - ./:/home/node/app
+      - node_modules:/home/node/app/node_modules
+volumes:
+  node_modules:
