@@ -84,8 +84,10 @@ docker-compose up -d
 
 Cualquier problema puedes escribirme un correo :  <a href="mailto:dylanhurtado43@gmail.com" target="_blank" rel="noreferrer">dylanhurtado43@gmail.com</a>
 
-## 📖 Wiki 📖
+## 📖 Wiki And Documentation 📖
 <a href="https://github.com/DyLaNHurtado/cosmos-chat/wiki" target="_blank">Official Wiki</a>
+
+<a href="https://github.com/DyLaNHurtado/cosmos-chat/blob/master/documentation/Documentaci%C3%B3nProyecto_DylanHurtadoLopez_IES%20Luis%20VIves.pdf" target="_blank">Official Documentation</a>
 
 ## ✒️ Autor ✒️
  * DyLaNHurtado
